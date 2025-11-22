@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.jumbotron {
+    background-color: #86a4b7;
+    color: #fff;
+    padding: 6rem 2rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,.5);
+}
+
+.card {
+    transition: transform .2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
